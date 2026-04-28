@@ -1,0 +1,20 @@
+## Project Overview
+
+This project analyzes Glassdoor employee reviews to identify patterns related to workplace satisfaction. It explores overall ratings, recommendation status, employment status, workplace rating dimensions and review text through data cleaning, exploratory data analysis, statistical hypothesis testing and basic text mining.
+
+A second dataset from the World Bank is used to add broader macroeconomic context for selected countries. The goal is to find meaningful associations between employee satisfaction, workplace conditions and economic context, without claiming causality.
+
+## Data Sources
+
+This project uses two independent data sources:
+
+1. **Glassdoor Job Reviews Dataset**  
+   Source: Kaggle  
+   Link: https://www.kaggle.com/datasets/davidgauthier/glassdoor-job-reviews
+   After downloading it, place the file in the `data/` folder with the following name: 'glassdoor_reviews.csv'
+   Used for employee reviews, ratings, recommendation status, employment status, workplace dimensions, company information, and review text.
+
+2. **World Development Indicators Dataset**  
+   Source: World Bank DataBank  
+   Link: https://databank.worldbank.org/source/world-development-indicators  
+   Used for macroeconomic indicators such as GDP growth, inflation, and unemployment for selected countries.
