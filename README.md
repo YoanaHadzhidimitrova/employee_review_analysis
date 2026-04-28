@@ -1,3 +1,5 @@
+# Employee Review Analysis
+
 ## Project Overview
 
 This project analyzes Glassdoor employee reviews to identify patterns related to workplace satisfaction. It explores overall ratings, recommendation status, employment status, workplace rating dimensions and review text through data cleaning, exploratory data analysis, statistical hypothesis testing and basic text mining.
